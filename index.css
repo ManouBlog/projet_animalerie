@@ -1,0 +1,11 @@
+*,*::after,*::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(138, 117, 0);
+    border-top-style:  1px solid black;
+    text-transform: capitalize;
+}
